@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "fixing stupid sc2 bug/1.0.0": {
+        "runtime": {
+          "fixing stupid sc2 bug.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fixing stupid sc2 bug/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\eforc\source\repos\fixing stupid sc2 bug\fixing stupid sc2 bug\bin\Release\net6.0\fixing stupid sc2 bug.exe
+C:\Users\eforc\source\repos\fixing stupid sc2 bug\fixing stupid sc2 bug\bin\Release\net6.0\fixing stupid sc2 bug.deps.json
+C:\Users\eforc\source\repos\fixing stupid sc2 bug\fixing stupid sc2 bug\bin\Release\net6.0\fixing stupid sc2 bug.runtimeconfig.json
+C:\Users\eforc\source\repos\fixing stupid sc2 bug\fixing stupid sc2 bug\bin\Release\net6.0\fixing stupid sc2 bug.dll
+C:\Users\eforc\source\repos\fixing stupid sc2 bug\fixing stupid sc2 bug\bin\Release\net6.0\fixing stupid sc2 bug.pdb
+C:\Users\eforc\source\repos\fixing stupid sc2 bug\fixing stupid sc2 bug\obj\Release\net6.0\fixing stupid sc2 bug.csproj.AssemblyReference.cache
+C:\Users\eforc\source\repos\fixing stupid sc2 bug\fixing stupid sc2 bug\obj\Release\net6.0\fixing stupid sc2 bug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eforc\source\repos\fixing stupid sc2 bug\fixing stupid sc2 bug\obj\Release\net6.0\fixing stupid sc2 bug.AssemblyInfoInputs.cache
+C:\Users\eforc\source\repos\fixing stupid sc2 bug\fixing stupid sc2 bug\obj\Release\net6.0\fixing stupid sc2 bug.AssemblyInfo.cs
+C:\Users\eforc\source\repos\fixing stupid sc2 bug\fixing stupid sc2 bug\obj\Release\net6.0\fixing stupid sc2 bug.csproj.CoreCompileInputs.cache
+C:\Users\eforc\source\repos\fixing stupid sc2 bug\fixing stupid sc2 bug\obj\Release\net6.0\fixing stupid sc2 bug.dll
+C:\Users\eforc\source\repos\fixing stupid sc2 bug\fixing stupid sc2 bug\obj\Release\net6.0\refint\fixing stupid sc2 bug.dll
+C:\Users\eforc\source\repos\fixing stupid sc2 bug\fixing stupid sc2 bug\obj\Release\net6.0\fixing stupid sc2 bug.pdb
+C:\Users\eforc\source\repos\fixing stupid sc2 bug\fixing stupid sc2 bug\obj\Release\net6.0\fixing stupid sc2 bug.genruntimeconfig.cache
+C:\Users\eforc\source\repos\fixing stupid sc2 bug\fixing stupid sc2 bug\obj\Release\net6.0\ref\fixing stupid sc2 bug.dll
